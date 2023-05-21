@@ -1,0 +1,26 @@
+# Alarm-Clock using Vanilla JavaScript
+
+🕒⏰ This repository houses the Alarm Clock developed using Vanilla JavaScript, HTML, and CSS. 🌟 It aims to provide a soothing experience with powerful features and a clean interface. ✨💤
+
+## Problem Statement
+
+Create an alarm clock using only Vanilla JavaScript, without the use of any libraries or frameworks for JavaScript (CSS frameworks like Bootstrap are allowed). 
+
+## Required Features
+
+- ⏰ **Clock Face:** Display a clock that shows the current time, with seconds, minutes, and hours updating in real-time.
+
+- ⏰ **Set Alarm:** 
+  - Provide input boxes for users to set an alarm (hour, minute, second, AM/PM).
+  - When the user sets the time and clicks the "Set Alarm" button, add the alarm to the list of alarms below.
+  - When the set alarm time is reached, alert the user using JavaScript's alert function.
+
+- ⏰ **Alarms List:**
+  - Display a list of all alarms set by the user.
+
+- ⏰ **Delete Alarm:**
+  - Include a delete button for each alarm in the list.
+  - When the user deletes an alarm, ensure that it no longer triggers an alert.
+
+Let's wake up to the perfect alarm experience! ⏰😊
+
